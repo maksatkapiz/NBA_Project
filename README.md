@@ -21,4 +21,5 @@ Does the change of the dollar price affect the salary of the basketball players?
 Lastly, it is known that the salaries of the NBA players are much higher than the income of an average individual, therefore my last question is:
 
 Why are the salaries of the basketball players so high?
+
 For the investigation I have found the dataset that was taken from Kaggle, the world’s largest data science community which provides access to many data sets, including the table which contains the whole information about the NBA players’ salaries in the period 2002 to 2017. The table presents information about the players’ names, teams, position and salary for the certain season, and the season itself. The information provided in the table also concerns the spending of money of a certain team on a player’s salary, seasons with the highest salaries, leading teams, the most paid positions and other details which allow me to answer all the stated above questions regarding the NBA players’ income. 
